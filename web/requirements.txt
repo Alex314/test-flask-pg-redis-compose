@@ -1,0 +1,4 @@
+flask
+redis
+SQLAlchemy~=1.4.31
+psycopg2
